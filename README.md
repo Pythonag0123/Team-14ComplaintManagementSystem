@@ -1,6 +1,14 @@
 # 📢 Complaint Management System
 
 ### **WEB END TERM PROJECT — GROUP 14**
+## 📸 Lodge a Complaint – UI Preview
+
+The system provides a clean and intuitive interface for users to submit complaints easily.  
+Users can enter the title, choose a category, set priority, write a description, and upload attachments (Images/PDF).
+
+### 📝 Screenshot: Lodge a Complaint Form
+![Lodge Complaint Screenshot](NewComplaint.png)
+
 
 A minimal, functional Complaint Management System built under strict time constraints. The system allows users to file complaints, admins to assign them, and agents to resolve them.
 
